@@ -37,6 +37,7 @@ eyre.workspace = true
 p256.workspace = true
 rand_08.workspace = true
 proptest.workspace = true
+proptest-state-machine = "0.7.0"
 serde.workspace = true
 serde_json.workspace = true
 tempo-evm.workspace = true
